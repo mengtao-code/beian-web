@@ -1,1 +1,1 @@
-A simple html for registration in China.
+A simple html for inspection in China.
